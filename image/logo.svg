@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" height="50">
+  <title>MusicBuddy</title>
+  <!-- Background Circle -->
+  <circle cx="25" cy="25" r="25" fill="white"/>
+  
+  <!-- Text MB inside the Circle -->
+  <text x="25" y="30" font-family="sans-serif" font-weight="600" font-size="16" text-anchor="middle" fill="black">(^_^)</text>
+  
+  <!-- Main Text below the Circle -->
+    <text x="50%" y="50%" font-family="sans-serif" font-size="16" text-anchor="middle" dy=".3em" fill="white">MusicBuddy</text>
+</svg>
